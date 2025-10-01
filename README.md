@@ -1,16 +1,13 @@
-## Hi there 👋
+## Jakub Cisek 
 
-<!--
-**KKuubaaaC/KKuubaaaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🤖 Computer Vision & Iot Engineer @ Toyota | 🎓 MSc CS @ PJATK | 🧠 Aspiring AI Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building production-grade AI systems with Python, Deep Learning & Computer Vision
+
+💻 Stack: Python · TensorFlow · PyTorch · OpenCV · Docker · SQL · Iot
+🔬 Focus: MLOps · Computer Vision · Industrial AI · Healthcare AI
+🏆 2nd Best Thesis Award · Dean's Excellence (2024, 2025) 
+📄 Published research in AI-powered medical diagnostics
+
+📍 Wrocław/Warsaw, Poland
