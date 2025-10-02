@@ -1,27 +1,15 @@
-## Jakub Cisek 
+# Jakub Cisek  
 
-About Me
+## About Me  
+**Computer Vision & IoT Engineer at Toyota** with a strong background in **Artificial Intelligence** and **Computer Science**. I specialize in designing and deploying **production-grade AI and IoT systems**, with a strong focus on **Computer Vision, MLOps, and Healthcare AI**. My work bridges the gap between **academic research** and **industrial applications**, combining practical engineering experience with scientific contribution. I am particularly interested in developing AI solutions that address real-world challenges in healthcare and industry.  
 
-I am a Computer Vision & IoT Engineer at Toyota with a strong background in Artificial Intelligence and Computer Science. I specialize in building production-grade AI and IoT systems with a focus on computer vision, MLOps, and healthcare AI. My long-term ambition is to advance applied AI research and contribute to impactful real-world solutions.
+## Research & Achievements  
+- **Co-author:** peer-reviewed publication on AI in lung cancer diagnostics (*Cancers, 2025*)  
+- **2nd Best Thesis Award** in Deep Learning  
+- **Dean’s Excellence Award** (2024, 2025)  
 
-Expertise
+## Education  
+**MSc in Computer Science**, PJATK  
 
-Tech Stack: Python, TensorFlow, PyTorch, OpenCV, Docker, SQL, IoT
-
-Focus Areas: Computer Vision, MLOps, Industrial AI, Healthcare AI
-
-Research & Achievements
-
-Co-author of a peer-reviewed publication on AI applications in lung cancer diagnostics (Cancers, 2025)
-
-2nd Best Thesis Award in Deep Learning
-
-Dean’s Excellence Award (2024, 2025)
-
-Education
-
-MSc in Computer Science, PJATK
-
-Location
-
-Wrocław / Warsaw, Poland
+## Location  
+Wrocław / Warsaw, Poland  
